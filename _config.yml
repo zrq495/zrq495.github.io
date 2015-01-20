@@ -1,0 +1,18 @@
+# Site settings
+title: zrq495
+email: zrq495@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  看起来不错的样子~
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://zrq495.github.io" # the base hostname & protocol for your site
+twitter_username: zrq495
+github_username:  zrq495
+
+# Build settings
+markdown: kramdown
+
+# # Tag was never closed
+# excerpt_separator: ""
+
+# Permalinks
+permalink: pretty
